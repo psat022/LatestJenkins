@@ -6,6 +6,7 @@ public class NewTest {
   //executuion2
   //exexution3
   //execution4
+  //example1
   public void f() {
   }
 }
